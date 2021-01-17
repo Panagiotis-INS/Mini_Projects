@@ -1,1 +1,1 @@
-##Random password generator in bash##
+#Random password generator in bash#
